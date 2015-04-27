@@ -2,7 +2,7 @@
 
 CSS used to be simple. Open a `.css` file, write some styles, save and FTP to the correct location. Job done.
 
-These days we have a much more robust, testable, optimised workflow. I will attempt to summarise the way I approach this in a series of short blog posts, collected here until my personal blog is in a better place to host them.
+These days we have a much more robust, testable, optimised workflow. I will attempt to summarise the way I approach this in a series of short blog posts, collected here until my personal blog is in a better state to host them.
 
 These posts wont necessarily cover all aspects of the tools/ideas, but will be a more personal account of how I use them and the benefits they bring.
 
@@ -18,7 +18,7 @@ These posts wont necessarily cover all aspects of the tools/ideas, but will be a
 * [ ] Grid (Responsive Grid) - A solid foundation for a modern responsive layout
 * [ ] Following a Style Guide - Why to create one and how it benefits on-going development
 * [ ] Rapid Prototyping - Creating Lo-Fi single-purpose mockups of specific modules/components
-* [ ] Linting (Stylint) - Consistent, correctly formatted Stylus
+* [ ] Linting (Stylint, CSSLint) - Consistent, correctly formatted Stylus
 * [ ] Validation (W3 Validation, Stylestats) - What to listen to, and how far to take it
 * [ ] Unit tests - Writing unit tests for Stylus
 * [ ] Browser-Level Optimisation - GZIP, concatination, critical CSS
@@ -26,3 +26,5 @@ These posts wont necessarily cover all aspects of the tools/ideas, but will be a
 * [ ] Sublime setup and snippets - Making the most of Stylus in Sublime
 * [ ] Paper Planning / HTML Structure - Thinking about CSS away from the screen before writing
 * [ ] Device testing - Using devices and device emulation (Browserstack) to test everywhere
+* [ ] Files/Folder - Organising Stylus files
+* [ ] Source Maps - Fun to use, awkward to setup
